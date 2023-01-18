@@ -1,2 +1,10 @@
 hello irhad
-how are you
+<<<<<<< HEAD
+how are nice
+test date 
+sample irshad
+=======
+test data from 
+sample from irshad
+
+>>>>>>> irshad1
